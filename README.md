@@ -1,2 +1,4 @@
 # BigData
-This repository contains all the project artifacts of the project handled in Big Data Platform using Spark Platform.
+This repository is a collection of the project artifacts performed on the Big Data Platform and Spark Platform.
+
+Languages Used: PySpark, Python, Java
