@@ -14,3 +14,7 @@ While analyzing a data set is easy with the vast of models and visualization tec
 * Language - PySpark
 * Tools - Cloudera VM, Jupyter Notebook, Microsoft PowerPoint
 
+##### Details of the Artifacts
+* Input Files - Yelp data set is sourced from Yelp website, with over 2.5 MB of data when compressed. This large file cannot be handled in Microsoft Excel for viewing the data. The original data source has been filtered and cleaned to get a sizable amount of big data for our project work.
+* References - There are a few references of the files included about the analysis. The Analysis and Regression document is a short reference of the work done as part of the project work.
+
